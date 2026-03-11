@@ -5,7 +5,7 @@
     꾸준히 성장하고 있습니다.
 </p>
 
-<h2>기술 스택</h2>
+<h2>Tech Stacks</h2>
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
@@ -15,13 +15,22 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
 </p>
 
-<h2>프로젝트</h2>
+<h2>Project</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - AI취미 추천 프로그램 Moit</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - AI 향수 추천 프로그램</a></li>
+    <li><a href="https://github.com/taehyeooo/MOIT.Tae.ver.git">프로젝트 1 - AI취미 추천 프로그램 Moit</a></li>
+    <li><a href="">프로젝트 2 - AI 향수 추천 프로그램</a></li>
+    <li><a href="">프로젝트 2 - 내 몸에 쏙 맞는 식단 & AI 대체제 추천 Eat-Sok</a></li>
 </ul>
+
+<h2>How to reach me</h2>
+[![gimtaeng527@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:gimtaeng527@gmail.com) : gimtaeng527@gmail.com 
+<a href="https://www.instagram.com/xoaxoae" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+
+<h2>Github Stats</h2>
+
+![taehyeooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
