@@ -26,11 +26,11 @@
 </ul>
 
 <h2>How to reach me</h2>
-[![gimtaeng527@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:gimtaeng527@gmail.com) : gimtaeng527@gmail.com 
+<a href="mailto:gimtaeng527@gmail.com">    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gimtaeng527@gmail.com"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/xoaxoae" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
 <h2>Github Stats</h2>
 
-![taehyeooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![taehyeooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeooo&show_icons=true&theme=radical)
