@@ -20,7 +20,7 @@
 
 <h2>Project</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/taehyeooo/MOIT.Tae.ver.git">프로젝트 1 - AI취미 추천 프로그램 Moit</a></li>
+    <li><a href="">프로젝트 1 - AI취미 추천 프로그램 Moit</a></li>
     <li><a href="">프로젝트 2 - AI 향수 추천 프로그램</a></li>
     <li><a href="">프로젝트 3 - 내 몸에 쏙 맞는 식단 & AI 대체제 추천 Eat-Sok</a></li>
 </ul>
