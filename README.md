@@ -20,9 +20,10 @@
 
 <h2>Project</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="">프로젝트 1 - AI취미 추천 프로그램 Moit</a></li>
-    <li><a href="">프로젝트 2 - AI 향수 추천 프로그램</a></li>
-    <li><a href="">프로젝트 3 - 내 몸에 쏙 맞는 식단 & AI 대체제 추천 Eat-Sok</a></li>
+    <li><a href="">프로젝트 1 - 실시간 여정 복구 AI 에이전트</a></li>
+    <li><a href="">프로젝트 2 - AI취미 추천 프로그램 Moit</a></li>
+    <li><a href="">프로젝트 3 - AI 향수 추천 프로그램</a></li>
+    <li><a href="">프로젝트 4 - yollov10을 이용한 정확도</a></li>
 </ul>
 
 <h2>How to reach me</h2>
