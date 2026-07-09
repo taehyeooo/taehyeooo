@@ -20,10 +20,10 @@
 
 <h2>Project</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="">프로젝트 1 - 실시간 여정 복구 AI 에이전트</a></li>
-    <li><a href="">프로젝트 2 - AI 취미 추천 프로그램 Moit</a></li>
-    <li><a href="">프로젝트 3 - AI 향수 추천 프로그램</a></li>
-    <li><a href="">프로젝트 4 - YoLoV10을 사용한 사용자 표정 분석 알고리즘 성능비교</a></li>
+    <li><a href="https://github.com/Keystone-planb/plan-b-server">프로젝트 1 - 실시간 여정 복구 AI 에이전트</a></li>
+    <li><a href="https://github.com/taehyeooo/Moit_2_ver">프로젝트 2 - AI 취미 추천 프로그램 Moit</a></li>
+    <li><a href="https://github.com/taehyeooo/yollov8_AI_perfume">프로젝트 3 - AI 향수 추천 프로그램</a></li>
+    <li><a href="https://github.com/taehyeooo/yollov10_AI_perfume">프로젝트 4 - YoLoV10을 사용한 사용자 표정 분석 알고리즘 성능비교</a></li>
 </ul>
 
 <h2>How to reach me</h2>
